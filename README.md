@@ -51,4 +51,4 @@ Open a Pull Request
 Contact
 Zwivhuya Davhana  zwivdav@gmail.com
 
-Project Link: https://github.com/yourusername/responsive-navbar-2024
+Project Link: https://github.com/Zwivhuya6132/ResponsiveNavBar2024
